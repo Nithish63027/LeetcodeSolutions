@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
