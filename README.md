@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
