@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -60,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
