@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## String Matching
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0389-find-the-difference) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
