@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
