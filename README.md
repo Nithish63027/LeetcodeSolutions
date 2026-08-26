@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
