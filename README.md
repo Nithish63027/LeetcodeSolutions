@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
 ## String
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Database
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0595-big-countries) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
