@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nithish63027/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Database
 |  |
